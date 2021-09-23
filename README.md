@@ -11,7 +11,8 @@ The modern MVVM consist of following concepts.
 Isolated structure of view modell
 ## StateMachine
 Unidirectional Data Flow.
-## FeedbackLoop 
+## FeedbackLoop
+![](/doc/feedback.png)   
 A Feedback Loop is a system that generate new value from its computations as the next input to itself.
 
 # Post Link
