@@ -1,5 +1,5 @@
 # FeedbackNoRx
-This is my demo project of implementing the modern MVVM without reactive programming.
+This is a iOS demo project of implementing the modern MVVM without reactive programming.
 The demo project using GitHub search api to search repos on GitHub.
 
 ![](/doc/screenshot.gif)
