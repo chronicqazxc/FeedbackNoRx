@@ -13,3 +13,6 @@ Isolated structure of view modell
 Unidirectional Data Flow.
 ## FeedbackLoop 
 A Feedback Loop is a system that generate new value from its computations as the next input to itself.
+
+# Post Link
+There is the deeper explanation in my [post](https://wayneyuhanhsiao.wordpress.com/2021/09/23/modern-ios-mvvm-view-model-input-output-state-machine-using-feedback-loop/)
